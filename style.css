@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.parent {
+    background: url(./images\ \(5\).jpeg) no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+.b1 {
+    border: solid white 0px;
+    border-top: solid red 6px;
+    color: white;
+}
+.c {
+    padding-left: 80px;
+    padding-top: 40px;
+    font-size: 25px;
+}
+.h3 {
+    font-size: 26px;
+    position: absolute;
+    top: 20px;
+    left: 700px;
+}
+button {
+    background-color: transparent;
+    border: solid 2px white;
+    color: white;
+    padding: 10px;
+}
+.b2 {
+    color: white;
+    font-size: 35px;
+    padding-left: 50px;
+}
